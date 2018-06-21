@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jse-uml-overriding.iml" filepath="$PROJECT_DIR$/jse-uml-overriding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SI_03_Overriding.iml" filepath="$PROJECT_DIR$/SI_03_Overriding.iml" />
     </modules>
   </component>
 </project>
